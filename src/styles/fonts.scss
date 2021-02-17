@@ -1,0 +1,38 @@
+@font-face {
+  font-weight: normal;
+  font-family: 'Font Awesome Light Regular';
+  font-display: swap;
+  font-style: normal;
+  src: url(/assets/fonts/FontAwesomeLight-Regular.eot);
+  src: local('Font Awesome Light Regular'), local('FontAwesomeLightRegular-Regular'),
+    url(/assets/fonts/FontAwesomeLight-Regular.eot) format('embedded-opentype'),
+    url(/assets/fonts/FontAwesomeLight-Regular.ttf) format('truetype'),
+    url(/assets/fonts/FontAwesomeLight-Regular.woff) format('woff'),
+    url(/assets/fonts/FontAwesomeLight-Regular.woff2) format('woff2'),
+    url(/assets/fonts/FontAwesomeLight-Regular.svg) format('svg');
+}
+@font-face {
+  font-weight: normal;
+  font-family: 'Font Awesome Solid Regular';
+  font-display: swap;
+  font-style: normal;
+  src: url(/assets/fonts/FontAwesomeSolid-Bold.eot);
+  src: local('Font Awesome Solid Regular'), local('FontAwesomeSolidBold-Regular'),
+    url(/assets/fonts/FontAwesomeSolid-Bold.eot) format('embedded-opentype'),
+    url(/assets/fonts/FontAwesomeSolid-Bold.ttf) format('truetype'),
+    url(/assets/fonts/FontAwesomeSolid-Bold.woff) format('woff'),
+    url(/assets/fonts/FontAwesomeSolid-Bold.woff2) format('woff2'),
+    url(/assets/fonts/FontAwesomeSolid-Bold.svg) format('svg');
+}
+@font-face {
+  font-weight: normal;
+  font-family: 'Font Awesome Brands Regular';
+  font-display: swap;
+  font-style: normal;
+  src: url(/assets/fonts/FontAwesomeBrands-Regular.eot);
+  src: local('Font Awesome Brands Regular'), local('FontAwesomeBrandsRegular-Regular'),
+    url(/assets/fonts/FontAwesomeBrands-Regular.eot) format('embedded-opentype'),
+    url(/assets/fonts/FontAwesomeBrands-Regular.ttf) format('truetype'),
+    url(/assets/fonts/FontAwesomeBrands-Regular.woff) format('woff'),
+    url(/assets/fonts/FontAwesomeBrands-Regular.svg) format('svg');
+}
